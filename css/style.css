@@ -651,6 +651,13 @@ footer {
     }
 }
 
+@media (max-width: 768px) {
+    .activites_marseille {
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+}
+
 @media (max-width: 584px) {
     .hebergements-grid {
         display: grid;
@@ -687,6 +694,6 @@ footer {
     }
 
     .image_activites_grand {
-        max-height: 20rem;
+        max-height: 14rem;
     }
 }
