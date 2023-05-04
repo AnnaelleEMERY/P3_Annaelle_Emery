@@ -403,6 +403,7 @@ header {
 
 .titre_activite {
     padding: 0rem 1.5rem;
+    font-size: 1rem;
 }
 
 .bloc-activites:hover {
